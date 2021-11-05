@@ -16,10 +16,9 @@
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=brightgreen)
-![Telegram API](https://img.shields.io/badge/Telegram%20API-090909?style=for-the-badge&logo=telegram)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
-
 ![Aiogram](https://img.shields.io/badge/Telegram-Aiogram-blue)
+
 
 ### Get in touch
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/yuuunost)
