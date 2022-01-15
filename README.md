@@ -15,7 +15,6 @@
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
-![Aiogram](https://img.shields.io/badge/Telegram-Aiogram-blue)
 
 
 ### Get in touch
