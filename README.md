@@ -1,11 +1,9 @@
 ## Hey, I'm just trying to write code here
 
 ### About me: 
-♻️I'm working on freelance and telegram projects.<br>
-♻️I'm currently learning more about Python and Django. <br>
-♻️I'm interested in doing backend and frontend development. <br>
-♻️Now Im studing in University on specealization Fundamental informatics and infromation Technology. <br>
-♻️I'm looking for help with my startup <br>
+♻️I'm currently learning more about Python and Data science. <br>
+♻️I'm interested in computer vision and machine learning. <br>
+♻️Now Im studing in University on specealization Fundamental Informatics and Infromation Technology. <br>
 
 💭U can write to me at any time
 
