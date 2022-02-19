@@ -5,7 +5,7 @@
 ♻️I'm interested in computer vision and machine learning. <br>
 ♻️Now Im studing in University on specealization Fundamental Informatics and Infromation Technology. <br>
 
-💭U can write to me at any time <br> <br> [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/yuuunost)
+💭U can write to me at any time
 
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1mmo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack)<br>
@@ -24,3 +24,4 @@
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/yuuunost)
