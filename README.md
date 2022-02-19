@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
-<?php
+
 // Import a specific icon by its slug as:
 echo file_get_contents('path/to/package/icons/[ICON SLUG].svg');
 
@@ -23,7 +23,6 @@ echo file_get_contents('path/to/package/icons/[ICON SLUG].svg');
 echo file_get_contents('path/to/package/icons/simpleicons.svg');
 
 // <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">...</svg>
-?>
 
 
 ### Get in touch
