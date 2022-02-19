@@ -8,8 +8,8 @@
 💭U can write to me at any time
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1mmo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1mmo&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1mmo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1mmo&layout=compact)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
