@@ -23,6 +23,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikitlearn-090909?style=for-the-badge&logo=scikit-learn)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
+![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=keras)
 
 ### Contact with me
 
