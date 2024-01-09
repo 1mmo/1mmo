@@ -3,7 +3,6 @@
 ### About me: 
 ♻️I'm currently learning more about Python and Data science. <br>
 ♻️I'm interested in computer vision and machine learning. <br>
-♻️Now I'm studing in University on specealization Fundamental Informatics and Infromation Technology. <br>
 
 💭U can write to me at any time
 
